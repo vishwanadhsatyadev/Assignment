@@ -1,5 +1,8 @@
 public class Test {
     public String print() {
-        return "Test Branch";
+        return "TestChild Branch";
+    }
+    public int add(int a, int b){
+        return a+b;
     }
 }
